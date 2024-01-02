@@ -11,3 +11,7 @@ Run following command: `sudo pacman -S hyprland-git nerd-fonts-complete-starship
 Clone the repo, then move all directories to the `/.config/hypr` directory by running following command: `cp -r ./* ~/.config/hypr`. Make sure that hyprland.conf was overwrited
 ## Step 4. Reloading
 Run `hyprctl reload`
+
+#
+
+Follow https://wiki.hyprland.org/ for more information.
