@@ -1,7 +1,9 @@
 # dots-hyprland-winter
 
 This hyprland configuration based on https://github.com/AmadeusWM/dotfiles-hyprland
-![image](https://github.com/vesnaIwakura18/dots-hyprland-winter/assets/112858545/781efc50-61ce-4e5e-bd1d-cc6184734824)
+
+![2024-01-06 07-45-42 remuxed (2)](https://github.com/vesnaIwakura18/dots-hyprland-winter/assets/112858545/5b2cb1b0-fb75-44d6-bb28-d279703207d8)
+
 # Installation
 ## Step 1. Install Hyprland
 Just run `sudo pacman -S hyprland`
