@@ -259,11 +259,9 @@
     :space-evenly false
     :halign "end"
     :class "right_modules"
-    (bright)
     (volume)
     (wifi)
     (sep)
-    (bat)
     (mem)
     (sep)
     (clock_module)
