@@ -1,0 +1,3 @@
+#!/bin/bash
+sleep 1
+openvpn3 session-start --config /home/sacrxsanct/Documents/abisen.ovpn &
